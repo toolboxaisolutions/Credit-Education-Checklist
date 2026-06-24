@@ -1,0 +1,106 @@
+{
+  "seededAt": "2026-06-24T04:38:09.273Z",
+  "locationId": "3rQJB6p3NRKQyQqDTc1Q",
+  "created": [
+    {
+      "name": "current_phase",
+      "id": "pWM8I647UW3mAL2ygeXA"
+    },
+    {
+      "name": "current_task",
+      "id": "pKvZdWf0HYuTkPczBitw"
+    },
+    {
+      "name": "task_01_pull_reports",
+      "id": "CDGGgmOBIohznbcYVKxN"
+    },
+    {
+      "name": "task_02_understand_score",
+      "id": "x8BXiFYeTsOC29FfxTU5"
+    },
+    {
+      "name": "task_03_set_up_budget",
+      "id": "ndGZh81J6gcYAcV6tu35"
+    },
+    {
+      "name": "task_04_safety_net",
+      "id": "6ZvenpHBfFnsozfAbNZw"
+    },
+    {
+      "name": "task_05_dispute_errors",
+      "id": "tMN0A4tMO7gg82xwiC4Q"
+    },
+    {
+      "name": "task_06_negotiate_collections",
+      "id": "ZvQzd7EhO3avHMgQQPZx"
+    },
+    {
+      "name": "task_07_autopay",
+      "id": "THNtjZycPjfZdUclT65c"
+    },
+    {
+      "name": "task_08_secured_card",
+      "id": "WKmrGcOdZwlA6YIxCMCO"
+    },
+    {
+      "name": "task_09_authorized_user",
+      "id": "VuZ9p5KMH18rbRcHwgRF"
+    },
+    {
+      "name": "task_10_credit_builder",
+      "id": "Gnw4izWvkzfumP0s0WKK"
+    },
+    {
+      "name": "task_11_credit_limit_increase",
+      "id": "vrxDQegxteg3Stxopvwx"
+    },
+    {
+      "name": "task_12_better_cards",
+      "id": "snVko6z2ip9McL08eYpQ"
+    },
+    {
+      "name": "task_13_optimize_utilization",
+      "id": "tHze7R6HNDWYHZiNavSH"
+    },
+    {
+      "name": "task_14_credit_monitoring",
+      "id": "QU8tqhhcoyXAXEXqk5oD"
+    },
+    {
+      "name": "task_15_annual_review",
+      "id": "U4AF4dT49qwADWIEAg4M"
+    },
+    {
+      "name": "task_16_score_goals",
+      "id": "IL1j2W7VTO7AJ4oXMl5S"
+    },
+    {
+      "name": "primary_goal",
+      "id": "roMtGfwcqXWcCHMSrC4l"
+    },
+    {
+      "name": "spending_category",
+      "id": "jNUlCUUw86VFatzRHgqC"
+    },
+    {
+      "name": "international_travel",
+      "id": "YfjBozxwPL9Dkwq563xO"
+    },
+    {
+      "name": "preferred_card_rewards",
+      "id": "kzrpQJ6yu4o81LsVgsMm"
+    },
+    {
+      "name": "secured_card_choice",
+      "id": "yyyG2qDMjjZjYJCXNKlN"
+    },
+    {
+      "name": "credit_builder_service",
+      "id": "1ru5Lj5cmrbHtCgvnVYk"
+    },
+    {
+      "name": "onboarding_complete",
+      "id": "USCfEa0BmSbisNqG00BX"
+    }
+  ]
+}
